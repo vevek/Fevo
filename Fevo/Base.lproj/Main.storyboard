@@ -1772,43 +1772,43 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="E3A-Ke-8AI">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="E3A-Ke-8AI">
                                 <rect key="frame" x="425" y="78" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="zCI-pZ-ACc">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="zCI-pZ-ACc">
                                 <rect key="frame" x="425" y="121" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="m4E-nh-csu">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="m4E-nh-csu">
                                 <rect key="frame" x="425" y="166" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="pRH-aU-mHm">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="pRH-aU-mHm">
                                 <rect key="frame" x="425" y="214" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="A3c-fa-sMA">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="A3c-fa-sMA">
                                 <rect key="frame" x="425" y="259" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="sVY-eu-Ysw">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="sVY-eu-Ysw">
                                 <rect key="frame" x="425" y="306" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="FBs-3Q-4e9">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="FBs-3Q-4e9">
                                 <rect key="frame" x="425" y="355" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="Bx8-Fu-jAG">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="Bx8-Fu-jAG">
                                 <rect key="frame" x="425" y="401" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="rVa-im-s7h">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="rVa-im-s7h">
                                 <rect key="frame" x="425" y="448" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="r2G-K5-zCr">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="r2G-K5-zCr">
                                 <rect key="frame" x="425" y="493" width="94" height="29"/>
                                 <animations/>
                             </stepper>
@@ -1834,7 +1834,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="Xul-LS-K5u">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="Xul-LS-K5u">
                                 <rect key="frame" x="425" y="538" width="94" height="29"/>
                                 <animations/>
                             </stepper>
@@ -2057,6 +2057,9 @@
                                 <rect key="frame" x="24" y="20" width="34" height="30"/>
                                 <animations/>
                                 <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="MYI-jL-d1i" kind="show" id="QIc-ck-tgm"/>
+                                </connections>
                             </button>
                         </subviews>
                         <animations/>
@@ -2079,35 +2082,31 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="Kbe-Ov-o2J">
-                                <rect key="frame" x="425" y="78" width="94" height="29"/>
-                                <animations/>
-                            </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="jVQ-oC-fR2">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="jVQ-oC-fR2">
                                 <rect key="frame" x="425" y="121" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="2B2-Tw-3Au">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="2B2-Tw-3Au">
                                 <rect key="frame" x="425" y="166" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="tsL-ar-2HJ">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="tsL-ar-2HJ">
                                 <rect key="frame" x="425" y="214" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="1iC-DO-hCL">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="1iC-DO-hCL">
                                 <rect key="frame" x="425" y="259" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="Xs4-tT-BqP">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="Xs4-tT-BqP">
                                 <rect key="frame" x="425" y="306" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="6Od-cg-Z5M">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="6Od-cg-Z5M">
                                 <rect key="frame" x="425" y="355" width="94" height="29"/>
                                 <animations/>
                             </stepper>
-                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="mfP-xz-ekH">
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="mfP-xz-ekH">
                                 <rect key="frame" x="425" y="401" width="94" height="29"/>
                                 <animations/>
                             </stepper>
@@ -2292,7 +2291,14 @@
                                 <rect key="frame" x="24" y="28" width="34" height="30"/>
                                 <animations/>
                                 <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="apG-9k-7zN" kind="show" id="gB3-cd-D6G"/>
+                                </connections>
                             </button>
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="Kbe-Ov-o2J">
+                                <rect key="frame" x="425" y="78" width="94" height="29"/>
+                                <animations/>
+                            </stepper>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -2323,6 +2329,8 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="QIc-ck-tgm"/>
+        <segue reference="gB3-cd-D6G"/>
         <segue reference="3fp-ZQ-5iC"/>
         <segue reference="FNo-PU-L3R"/>
     </inferredMetricsTieBreakers>
